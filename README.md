@@ -1,6 +1,7 @@
 👋 Hi, I’m Chandra Molli
 
-Senior Product Manager with 18+ years of experience across **AI, voice, enterprise platforms, and infrastructure**.  
+Senior Product Manager with 18+ years of experience building **AI-powered, voice, and enterprise platform products**.  
+I specialize in designing **production-ready AI systems** grounded in strong platform, networking, and security fundamentals. 
 I build **AI-powered, enterprise-grade products** by combining product strategy with deep understanding of **hardware, networking, security, and platform reliability**.
 
 ---
