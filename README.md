@@ -32,6 +32,7 @@ This is a **product manager's portfolio**, not an engineering code dump:
 
 | Repo | What it covers |
 |---|---|
+| [ai-infra-pm-playbook](https://github.com/sekharmolli/ai-infra-pm-playbook) | GPU cluster PRD template, InfiniBand vs RoCE decision framework, GPU cloud vs on-prem TCO model and calculator, zero-trust segmentation for AI infrastructure |
 | [ai-pm-foundations](https://github.com/sekharmolli/ai-pm-foundations) | AI product system design, evaluation metrics, risk and guardrails, cost/latency SLOs, PRD template, case study |
 
 ### 🛠️ Toolbox
