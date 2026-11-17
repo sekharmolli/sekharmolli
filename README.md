@@ -1,65 +1,43 @@
-👋 Hi, I’m Chandra Molli
+# Hi, I'm Chandra Sekhar Molli 👋
 
-Senior Product Manager with 18+ years of experience building **AI-powered, voice, and enterprise platform products**.  
-I specialize in designing **production-ready AI systems** grounded in strong platform, networking, and security fundamentals. 
-I build **AI-powered, enterprise-grade products** by combining product strategy with deep understanding of **hardware, networking, security, and platform reliability**.
+**Principal Product Manager – AI Infrastructure, GPU Networking & AI Security** · CISSP · Dallas–Fort Worth
 
----
+I build product strategy for the infrastructure that AI runs on: **GPU clusters**, the **high-speed fabrics** that connect them, and the **security controls** that protect them.
 
-## 🧠 What I Do
-- Design AI-first products using LLMs, RAG, and human-in-the-loop systems
-- Own end-to-end product thinking — from **hardware & network foundations** to customer-facing AI experiences
-- Translate complex platform and infrastructure constraints into **clear product roadmaps**
-- Focus on **AI safety, system reliability, performance, cost control, and trust**
-
-My background spans telecom (IMS, VoIP, CCaaS), secure cloud platforms, and large-scale lab and testbed environments.
+[LinkedIn](https://www.linkedin.com/in/chandrasekharmolli) · [Email](mailto:sekharmolli@gmail.com)
 
 ---
 
-## 🏗️ Platforms, Infrastructure & Security (Unfair Advantage)
-Before and alongside product management, I **designed and operated enterprise-grade lab and platform environments**, which strongly informs how I build scalable AI products today.
+### 🧠 What I work on
 
-Experience includes:
-- Designing and managing **20+ rack lab environments** (Dell & HP servers)
-- End-to-end **network architecture design**:
-  - Core internal network
-  - Internal DMZ
-  - SBC layer
-  - External DMZ
-- Routing, switching, VLANs, firewall segmentation, and secure access patterns
-- Hardware lifecycle ownership: racking, patching, BIOS/firmware upgrades, capacity planning
-- Preparing repeatable **testbeds for telecom, voice, and platform validation**
-- Writing **Python and shell scripts** to automate setup, validation, and testing
+- **GPU & AI data center platforms** – cluster requirements for training and inference, workload placement, utilization, capacity planning, GPU-as-a-Service economics
+- **AI networking** – leaf-spine/ToR fabrics, InfiniBand, RoCE v1/v2, RDMA, high-speed Ethernet, East–West traffic engineering, telemetry
+- **AI infrastructure security** – network segmentation, firewall modernization, zero-trust access, multi-tenant isolation, policy-controlled access to sensitive data and models
+- **Hybrid cloud** – Kubernetes/OpenShift, AWS/Azure/GCP, IaC, build-vs-buy and TCO analysis
+- **Product leadership** – customer discovery, multi-generation roadmaps, system requirements, PoCs, acceptance criteria, GTM inputs
 
-This hands-on platform experience shapes how I design **AI systems that are realistic, secure, and production-ready**.
+### 🏗️ Hands-on infrastructure background
 
----
+19 years across network engineering, infrastructure, and ~9 years of technical product management, always close to the hardware:
 
-## 📂 What You’ll Find in This GitHub
-This is a **Product Manager portfolio**, not an engineering code dump.
+- Owned a **40–50 rack data center** with 200–300 Dell PowerEdge / HPE servers, GPU-enabled systems, storage, and high-speed fabrics
+- Validated low-latency networking with **InfiniBand, RoCE and RDMA**, using benchmark evidence to drive architecture and roadmap decisions
+- Designed segmented network architectures: core network, internal and external DMZ, routing, VLANs, firewall policy, secure access
+- Hardware lifecycle ownership: racking, BIOS/firmware upgrades, capacity planning
+- Python and shell automation for provisioning, validation, and testing
 
-You’ll find:
-- 📄 AI product case studies (problem → solution → metrics → risks)
-- 🧩 System & platform architecture designs (PM-level)
-- 📊 AI and platform metrics frameworks
-- 🔐 Security, risk, and enterprise rollout strategies
-- 🧪 Lightweight Python / shell scripts used for automation and testing
+### 📂 What you'll find here
 
----
+This is a **product manager's portfolio**, not an engineering code dump:
 
-## 🔍 Focus Areas
-- AI for Contact Centers & Voice Platforms
-- LLM-powered Knowledge Systems (RAG)
-- AI Product Metrics & Evaluation
-- Enterprise AI Security & Risk Governance
-- Platform, Infrastructure & Reliability-aware Product Design
-- Voice, SBC, and Network-integrated Systems
+| Repo | What it covers |
+|---|---|
+| [ai-pm-foundations](https://github.com/sekharmolli/ai-pm-foundations) | AI product system design, evaluation metrics, risk and guardrails, cost/latency SLOs, PRD template, case study |
 
----
+### 🛠️ Toolbox
 
-## 🗣️ How to Use This
-If you’re a recruiter or hiring manager:
-- Start with the AI and platform case studies
-- I’m happy to walk through **architecture, tradeoffs, and decisions** in interviews
+`GPU clusters` `InfiniBand` `RoCE/RDMA` `Leaf-spine` `Kubernetes` `OpenShift` `AWS` `Azure` `GCP` `Terraform` `Python` `Zero Trust` `Network segmentation` `Observability`
 
-📫 Open to Senior Product Manager / AI Platform PM roles.
+### 📫 Open to
+
+Principal / Director product roles in **AI infrastructure, GPU cloud, AI networking, and AI security**. Happy to walk through architecture, trade-offs, and decisions.
